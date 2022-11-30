@@ -1,0 +1,264 @@
+.App{ 
+  background-color: black; 
+  height: 1315px;
+  width: 1366px;
+  left: -2212px;
+  top: -658px;
+  border-radius: 30px;
+
+}
+.left_side{   
+  border-top-left-radius: 20px; 
+  border-bottom-left-radius: 20px;
+
+  width: 311px;  
+  height: 1315px;
+  background: rgba(50, 94, 205, 1);
+  ;
+} 
+.Foydanavchilar{ 
+  position: absolute;
+  width: 1163px;
+  height: 1315px;
+  left: 277px;
+  top: 0px;
+  
+  border-radius: 20px 0px 0px 20px; 
+  
+
+}
+.right_side{  
+ 
+  position: absolute;
+  width: 1163px;
+  height: 1315px;
+  left: 277px;
+  top: 0px;
+  background: #FFFFFF;
+  border-radius: 20px 0px 0px 20px; 
+  
+}  
+.Search{  
+  
+  height: 45px;
+  width: 614px;
+  margin-left: 118px;
+  margin-top: 47px;
+  border-radius: 25px;
+
+  background: rgba(234, 240, 255, 1);
+  ; 
+  border: none;
+}  
+
+.Search2{ 
+  position: absolute;  
+  top: 63px;
+   left: 694px;
+  border-radius: 0px;
+  
+}
+.Bell{   
+  position: absolute;
+ height: 16.923076629638672px;
+ width: 16.410240173339844px;
+ left: 757px;
+ top: 59px;
+ border-radius: 0px;
+  
+} 
+.Profile{ 
+ position: absolute;
+ left: 804px; 
+ top: 63px;
+
+} 
+.Satitstik{  
+  position: absolute;
+  
+  height: 106px;
+  width: 1034px;
+  left: 34px;
+  top: 296px;
+  border-radius: 40px; 
+  border: 1px solid rgba(211, 224, 255, 1)
+
+}
+.Number{  
+  position: absolute;
+  height: 95px;
+  width: auto;
+  left: 320px;
+  top: 9px; 
+   
+} 
+.Number2{ 
+  
+font-size: 70px;
+font-weight: 700;
+line-height: 95px;
+letter-spacing: 8px;
+text-align: left; 
+color: blue;
+} 
+.Vector1{ 
+  margin-top: 34px; 
+  margin-left: 49px;
+} 
+.Vector2{ 
+  position: absolute; 
+  top: 36px; 
+  left: 76px;
+} 
+.Info{  
+  position: absolute;
+  height: 33.99824905395508px;
+  width: 70px;
+   left: 964px;
+   top: 36.000823974609375px;
+   border-radius: 0px;
+
+} 
+.otganlar{  
+  position: absolute;
+  top: 263px; 
+  margin-left: 91px;
+} 
+.AmallarHome{ 
+  margin-top: 274px; 
+  margin-left: 44px;
+}
+
+select{
+  width: 98%;
+  margin-top: 100px;
+  outline: none;
+}
+
+select:hover{
+  border-radius: 10px;
+  background-color: white;
+  border: none;
+  padding: 7px;
+ 
+} 
+.members{  
+  
+  width: 100vh;
+}
+.member{  
+  margin-top: 433px;
+  height: 200px;
+  width: 317px;
+  border-radius: 30px; 
+  border: 1px solid rgba(211, 224, 255, 1)
+
+} 
+.member2{  
+  margin-top: 26px;
+  height: 200px;
+  width: 317px;
+  border-radius: 30px; 
+  border: 1px solid rgba(211, 224, 255, 1)
+
+} 
+.Nomi{  
+
+  font-weight: 400;
+  font-size: 20px; 
+  margin-top: 24px; 
+  margin-left: 23px;
+} 
+.Numberi{  
+  font-size: 55px; 
+  margin-top: 9px; 
+  margin-left: 55px; 
+  font-weight: 500;
+} 
+.member_icon{  
+  width: 18.98px; 
+  margin-left: 34px;
+  
+} 
+.Nomi_icon{  
+  margin-top: 24px; 
+  margin-left: 23px; 
+  width: auto;
+} 
+.Percentage{ 
+  color:  rgba(106, 210, 160, 1); 
+  font-size: 14px; 
+  font-weight: 700;
+
+} 
+.benefit{  
+  width: 250px;  
+  justify-content: space-between;
+  display: flex;   
+  margin-top: 23px; 
+  margin-left: 37px;
+
+}
+.impovement{ 
+  width: 17.52px;
+} 
+.Batafsil_div{ 
+  width: auto; 
+
+}
+.Batafsil{ 
+  text-decoration: underline; 
+  color: blue; 
+  font-size: 16px; 
+  font-weight: 600; 
+
+}  
+.para{  
+  position: absolute; 
+  top: 10px;
+  
+} 
+.Info{ 
+ width: 34px;
+
+position: absolute
+
+} 
+.Statistika{ 
+  width: auto;  
+  position: absolute; 
+  top: 284px;
+  margin-left: 57px; 
+
+}
+.Statistika_name{ 
+  color: white; 
+  font-size: 20px; 
+  font-weight: 700; 
+  font-family: Nunito; 
+  line-height: 21.08px; 
+  margin-left: 24px;
+} 
+.Amallar{ 
+  position: absolute; 
+  top: 338px; 
+  left: 57px;
+} 
+.Amallar_Name{ 
+  color: white;
+} 
+.Ruxsatlar{ 
+  position: absolute; 
+  top: 400px; 
+  left: 57px;
+} 
+.Hisobotlar{ 
+  position: absolute; 
+  top: 463px; 
+  left: 57px;
+} 
+.Call-Markaz{ 
+  position: absolute; 
+  top: 522px; 
+  left: 57px;
+}
